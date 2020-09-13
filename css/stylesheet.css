@@ -72,8 +72,9 @@ nav li a:hover {
     margin: 10px auto 10px auto;
     position: initial;
     left: 50%;
-    width: 70%;
+    width: 60%;
     padding: .1px 10px;
+    border: 1px solid black;
     border-radius: 7.5px;
     background-color: white;
     font-family: 'Roboto', sans-serif;
