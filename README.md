@@ -1,2 +1,2 @@
-# SpillProff's Page
-A portfolio of my projects.
+# spillproffGHP
+SpillProff's GitHub Page

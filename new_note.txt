@@ -1,7 +1,0 @@
-<div class="txt">
-        <h2></h2> <!-- Note # -->
-        <h3></h3> <!-- Date -->
-        <p> <!-- Note information -->
-        
-        </p>
-    </div>
