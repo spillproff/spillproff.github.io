@@ -1,3 +1,9 @@
+// Website Elements
+
+This file has elements that will be used on the website.
+
+// HTML
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,11 +14,11 @@
   <meta name="keywords" content="Portfolio,Notes">
   <meta name="author" content="SpillProff">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>404 - spillproffGHP</title>
+  <title>spillproffGHP</title>
   <!-- // Metadata -->
 
   <!-- / Link -->
-  <link rel="stylesheet" href="css/style404.css">
+  <link rel="stylesheet" href="css/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
   <!-- // Link -->
 
@@ -36,7 +42,7 @@
 <!-- / Navbar -->
     <nav>
         <div class="logo">
-            <a href="index.html" title="Back to the homepage!">
+            <a href="index.html" title="You are here!">
                 <img src="media/img__logo.png" style="width:114px;height:25px;" alt="spillproff">
             </a>
         </div>
@@ -54,18 +60,30 @@
 <!-- // Navbar -->
 
     <div class="text-box"> <!-- Text Box -->
-        <h1>404</h1> <!-- Title -->
-        <h2>You travelled to somewhere that doesn't exist...</h2> <!-- Description -->
-        <h3>So... you wanna go play some competitive?</h3> <!-- Date -->
+        <h1></h1> <!-- Title -->
+        <h2></h2> <!-- Description -->
+        <h3></h3> <!-- Date -->
+        <img> <!-- Image -->
         <hr>
         <p> <!-- Text -->
-            You went somewhere that doesn't exist and now you are on the 404 page.
-            <br><br>Neat, right? No? Sorry...
-            <hr>
-            <img src="media/spillproff_logo_symbol.png" width=200 style="margin-left:auto;margin-right:auto;display:block;width:15%;">
-
         </p>
     </div>
 
 </body>
 </html>
+
+// HTML--
+
+// Text Box
+
+    <div class="text-box"> <!-- Text Box -->
+        <h1></h1> <!-- Title -->
+        <h2></h2> <!-- Description -->
+        <h3></h3> <!-- Date -->
+        <img src="#"> <!-- Image -->
+        <p> <!-- Text -->
+            
+        </p>
+    </div>
+
+// Text Box--
